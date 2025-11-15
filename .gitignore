@@ -17,6 +17,8 @@ vit_vizwiz_env/
 *.ipynb_checkpoints/
 
 # Model weights and data
+models/
+logs/
 *.pth
 *.pt
 *.ckpt
