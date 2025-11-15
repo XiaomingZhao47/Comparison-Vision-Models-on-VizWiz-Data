@@ -10,6 +10,7 @@ vit_env/
 *.egg-info/
 dist/
 build/
+vit_vizwiz_env/
 
 # Jupyter Notebook
 .ipynb_checkpoints
